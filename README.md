@@ -47,5 +47,5 @@ You can install the development version of acresFSA from
 
 ``` r
 # install.packages("pak")
-pak::pak("capellett/acresFSA")
+pak::pak("https://github.com/SCDES-Hydrology/acresFSA?tab=readme-ov-file")
 ```
