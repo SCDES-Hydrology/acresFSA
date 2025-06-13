@@ -1,0 +1,12 @@
+url: https://capellett.github.io/acresFSA/
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left:  [intro, reference, articles, tutorials, news]
+    right: [search, github, lightswitch]
+  components:
+    intro:
+      text: Getting Started
+      href: articles/acresfsa.html
